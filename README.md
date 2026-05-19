@@ -11,7 +11,56 @@
   />
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JonielOliveira&show_icons=true&count_private=true&hide_border=true&title_color=9C53A6&icon_color=3DF2E0&text_color=BFB85A&bg_color=0d1117" alt="Joniel Rodrigues Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scriptaron&layout=compact&hide_border=true&title_color=9C53A6&text_color=BFB85A&bg_color=0d1117" />
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,postgres,docker,git,github,linux,mongodb" />
+
+</div>
+
+## ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/JonielOliveira/jwt-auth-middleware-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonielOliveira&repo=nome-repo&theme=tokyonight" />
+</a>
+
+<a href="LINK_REPOSITORIO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonielOliveira&repo=nome-repo&theme=tokyonight" />
+</a>
+
+</div>
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonielOliveira&theme=tokyo-night&hide_border=true" />
+</p>
+
+## 🌐 Connect with Me
+
+<div align="left">
+  <div>
+    <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </div>
+  <div>
+    <a href="mailto:SEUEMAIL">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </div>
+</div>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:SEUEMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
