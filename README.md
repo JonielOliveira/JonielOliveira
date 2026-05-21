@@ -1,13 +1,13 @@
 <p align="center">
   <img
-src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Joniel%20Rodrigues&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Back-End%20Developer%20%7C%20DevOps%20%7C%20Data%20Science&descAlign=50&descAlignY=62&animation=twinkling&color=0:000000,50:003300,100:00FF00"
-  />
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Joniel%20Rodrigues&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Back-End%20Developer%20%7C%20DevOps%20%7C%20Data%20Science&descAlign=50&descAlignY=62&animation=twinkling&color=0:000000,50:003300,100:00FF00"
+      />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=2000&color=00FF41&center=true&vCenter=true&width=900&lines=Apaixonado%20por%20tecnologia,%20automação%20e%20aprendizado%20contínuo."
-    alt="Texto animado"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=2000&color=00FF41&center=true&vCenter=true&width=900&lines=Apaixonado%20por%20tecnologia%2C%20automa%C3%A7%C3%A3o%20e%20aprendizado%20cont%C3%ADnuo."
+  alt="Texto animado"
   />
 </p>
 
