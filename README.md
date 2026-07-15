@@ -21,15 +21,11 @@
 
 ## ⭐ Featured Projects
 
-<div align="center">
+<div align="left">
 
-<a href="https://github.com/JonielOliveira/jwt-auth-middleware-demo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonielOliveira&repo=nome-repo&theme=tokyonight" />
-</a>
+[![go-ecommerce-backend](https://gh-card.dev/repos/JonielOliveira/go-ecommerce-backend.svg)](https://github.com/JonielOliveira/go-ecommerce-backend)
 
-<a href="LINK_REPOSITORIO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonielOliveira&repo=nome-repo&theme=tokyonight" />
-</a>
+[![programacao-web-backend](https://gh-card.dev/repos/JonielOliveira/programacao-web-backend.svg)](https://github.com/JonielOliveira/programacao-web-backend)
 
 </div>
 
